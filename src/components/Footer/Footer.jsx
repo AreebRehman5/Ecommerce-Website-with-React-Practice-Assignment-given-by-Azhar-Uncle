@@ -16,7 +16,7 @@ function Footer() {
     <div className="footerContainer">
       <div className="footercontentDiv">
         <div className="footerOptionDiv">
-          <h1 className="footerHeading">EazyShop</h1>
+          <h1 className="footerHeading">Daraz Shop</h1>
           <span className="footerTxt optionHeading">Subscribe</span>
           <span className="footerTxt">Get 10% off your first order</span>
           <div className="footerInputDiv">
